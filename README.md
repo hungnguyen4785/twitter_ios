@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/NgdJqEu7d9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/NgdJqEu7d9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 **Twitter** is a basic twitter app to read your tweets.
 
 Time spent: **6** hours spent in total
